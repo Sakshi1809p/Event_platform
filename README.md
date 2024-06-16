@@ -147,6 +147,7 @@ Replace the placeholder values with your actual credentials
 
 ```bash
 npm run dev
+ngrok config add-authtoken 2bAkFOscC5hMcPeXOTPUCZf15OS_6QHdSmYDFYiYaTf16LYhj
 ngrok http --domain=seagull-amusing-optionally.ngrok-free.app 3000
 ```
 
