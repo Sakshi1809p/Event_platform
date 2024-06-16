@@ -143,6 +143,7 @@ NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=pk_test_51PSCxXSACnVNEeJklqFoiIjaZDkBkBo21PY9
 Replace the placeholder values with your actual credentials 
 
 **Running the Project**
+## Install ngrok first ##
 
 ```bash
 npm run dev
