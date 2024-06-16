@@ -145,7 +145,8 @@ Replace the placeholder values with your actual credentials
 **Running the Project**
 
 ```bash
-npm start
+npm run dev
+ngrok http --domain=seagull-amusing-optionally.ngrok-free.app 3000
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
