@@ -115,7 +115,7 @@ Create a new file named `.env` in the root of your project and add the following
 
 ```env
 #NEXT
-NEXT_PUBLIC_SERVER_URL=https://seagull-amusing-optionally.ngrok-free.app
+NEXT_PUBLIC_SERVER_URL=https://great-bass-actively.ngrok-free.app
 
 #CLERK
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_bWludC1wZXJjaC02MS5jbGVyay5hY2NvdW50cy5kZXYk
